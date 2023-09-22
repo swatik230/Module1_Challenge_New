@@ -18,7 +18,9 @@ Module 1 Challenge filesLinks to an external site.
 Instructions
 A table contains a database of 1,000 sample crowdfunding projects.
 
-![image](https://github.com/swatik230/Module1_Challenge/assets/88855120/15af9b29-1596-486b-85a8-ea85867003f5)
+
+![image](https://github.com/swatik230/Module1_Challenge_New/assets/88855120/ae616f0f-8f26-4c78-a686-d1e678b5352d)
+
 
 
 
