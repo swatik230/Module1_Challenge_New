@@ -37,7 +37,8 @@ Create a new column called Average Donation that uses a formula to find how much
 
 Create two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
 
-![image](https://github.com/swatik230/Module1_Challenge/assets/88855120/b08b30aa-01b8-4426-85f2-2aea2eea587b)
+
+![image](https://github.com/swatik230/Module1_Challenge_New/assets/88855120/cd855b80-f43a-4eca-b865-a0f004813a96)
 
 
 Category Stats
@@ -52,7 +53,8 @@ Create a new sheet with a pivot table that analyzes your initial sheet to count 
 
 Create a stacked-column pivot chart that can be filtered by country and parent category based on the table that you created.
 
-![image](https://github.com/swatik230/Module1_Challenge/assets/88855120/fde11f9b-1619-4fa1-b58d-ba466af3b5fc)
+![image](https://github.com/swatik230/Module1_Challenge_New/assets/88855120/ed71e4dd-8bd3-4741-9d4e-52661bae55cd)
+
 
 
 The dates in the deadline and launched_at columns use Unix timestamps. Fortunately for us, this formulaLinks to an external site. that can be used to convert these timestamps to a normal date.
@@ -61,7 +63,8 @@ Create a new column named Date Created Conversion that will use this formulaLink
 
 Create a new column named Date Ended Conversion that will use this formulaLinks to an external site. to convert the data contained in deadline into Excel's date format.
 
-![image](https://github.com/swatik230/Module1_Challenge/assets/88855120/819e527f-a1bf-4e31-b8ee-71f414dc8092)
+![image](https://github.com/swatik230/Module1_Challenge_New/assets/88855120/8f45af08-0b9e-43e0-a798-ae44527baf18)
+
 
 
 Outcomes Based on Launch Date
@@ -123,7 +126,9 @@ Less than 1000
 
 Greater than or equal to 50000
 
-![image](https://github.com/swatik230/Module1_Challenge/assets/88855120/56813f26-8b46-4994-b7ee-646a8ddd5bda)
+
+![image](https://github.com/swatik230/Module1_Challenge_New/assets/88855120/3895081d-9753-4969-9a96-72548e77efbf)
+
 
 A table and corresponding graph showing the percentage of projects that are successful, failed, and canceled based on their crowdfunding goal.
 
